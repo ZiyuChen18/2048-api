@@ -5,7 +5,7 @@
 * [`trainmoel/`](trainmodel/): 保存了训练网络的py文件和参数文件
    * [`train2.py`](trainmodel/train2.py): 训练CNN网络
 * [`CREATEDATA.py`](CREATEDATA.py): 用于生成训练数据的程序
-* [`evaluate.py`](evaluate.py): evaluate my self-defined agent.
+* [`evaluate.py`](evaluate.py): evaluate my self-defined agent.点开此程序运行代码即可。
 
 # 2048-api
 A 2048 game api for training supervised learning (imitation learning) or reinforcement learning agents
